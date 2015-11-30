@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1447747734 source:/home/wenzuoyi/Proj/vehicle_dvr/src/CSerialPort.cpp
+	<stdio.h>
+	<errno.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<termios.h>
+	<string>
+	"error_type.h"
+	"CSerialPort.h"
+
+1447815580 /home/wenzuoyi/Proj/vehicle_dvr/include/CSerialPort.h
+
+1448258896 source:/home/wenzuoyi/Proj/vehicle_dvr/main.cpp
+	<time.h>
+	<string.h>
+	<cstdio>
+	<iostream>
+	<fstream>
+	<string>
+	"CSerialPort.h"
+	"CLog.h"
+
+1447744130 /home/wenzuoyi/Proj/vehicle_dvr/include/error_type.h
+
+1447830042 /home/wenzuoyi/Proj/vehicle_dvr/include/CLog.h
+
+1448256287 source:/home/wenzuoyi/Proj/vehicle_dvr/src/CLog.cpp
+	<string.h>
+	<string>
+	<array>
+	<fstream>
+	"CLog.h"
+
